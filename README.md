@@ -30,7 +30,7 @@ I'm excited to have you here. Feel free to explore my projects, read my blog pos
 
 <!-- Your Latest Projects -->
 ## Latest Projects
-- [Project 1][(https://github.com/your-username/project1)](https://github.com/yussifahmedgh/finalCapstone.git)
+- [Project 1][[[(https://github.com/your-username/project1)](https://github.com/yussifahmedgh/finalCapstone.git)](https://github.com/yussifahmedgh/finalCapstone.git)](https://github.com/yussifahmedgh/finalCapstone.git)]
 
 
 <!-- Your Blog Posts -->
