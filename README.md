@@ -3,7 +3,7 @@
 # Hello, I'm Yussif! 👋
 ## Thank you for taking time to learn about me and my achievements
 <!-- A brief introduction about yourself -->
-I'm a passionate junior and data analyst with a love for coding and building innovative solutions. My main areas of interest are Python, Data Science, and Machine Learning.
+I'm a passionate junior and data analyst with a love for coding and building innovative solutions. My main areas of interest are Python, Data Science, and Machine Learning. I also about 7 years experience in sales and customer support.
 
 <!-- Call to Action -->
 ## 🚀 This is my landing page where you can learn everything about me
@@ -16,6 +16,8 @@ I'm excited to have you here. Feel free to explore my projects, read my blog pos
 - Data Science
 - Machine Learning
 - Web Development
+- sales
+- customer support
 
 <!-- Your GitHub Stats -->
 ## GitHub Stats
@@ -28,17 +30,18 @@ I'm excited to have you here. Feel free to explore my projects, read my blog pos
 
 <!-- Your Latest Projects -->
 ## Latest Projects
-- [Project 1](https://github.com/your-username/project1)
-- [Project 2](https://github.com/your-username/project2)
+- [Project 1][(https://github.com/your-username/project1)](https://github.com/yussifahmedgh/finalCapstone.git)
+
 
 <!-- Your Blog Posts -->
 ## Blog Posts
-- [Blog Post 1](https://your-blog.com/post1)
-- [Blog Post 2](https://your-blog.com/post2)
+- [Blog Post 1](empty)
+
 
 <!-- Your Favorite Quote -->
 ## Favorite Quote
 > "The only way to do great work is to love what you do." - Steve Jobs
+> "Love for your neighbour what you love for yourself"
 
 <!-- Call to Action -->
 ## 💌 Let's Connect!
