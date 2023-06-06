@@ -21,7 +21,7 @@ I'm excited to have you here. Feel free to explore my projects, read my blog pos
 
 <!-- Your GitHub Stats -->
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yussifahmedgh&show_icons=true&theme=dracula)
 
 <!-- Connect with me -->
 ## Connect with Me
